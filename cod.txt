@@ -1,4 +1,3 @@
-# Aula-Ambiente-de-Dv-e-Opera-o
 
 1902303@sala31911 MINGW64 ~/Desktop/Pamela
 $ git status
